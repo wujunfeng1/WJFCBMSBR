@@ -1,0 +1,14 @@
+name = "WJFCBMSBR"
+uuid = "d0ae05c3-f3cb-4bd8-b136-a8d5de07f15d"
+authors = ["wujunfeng1 <59754256+wujunfeng1@users.noreply.github.com>"]
+version = "0.1.0"
+
+[deps]
+Flux = "587475ba-b771-5e3f-ad9e-33799f191a9c"
+ImageFeatures = "92ff4b2b-8094-53d3-b29d-97f740f06cef"
+ImageIO = "82e4d734-157c-48bb-816b-45c225c6df19"
+Images = "916415d5-f1e6-5110-898d-aaa5f9f070e0"
+VideoIO = "d6d074c3-1acf-5d4c-9a43-ef38773959a2"
+WJFDPC = "c11ea89c-9772-4640-9ec1-7f02421ac3fd"
+WJFKNN = "b432dcb5-e94d-4c0c-a8ef-d237aaab788a"
+WJFParallelTask = "e651f0bd-5ae6-4ed7-94b7-345472aabd1c"
